@@ -48,6 +48,10 @@
    text-transform: uppercase;
  }
 
+.hero .content .mine{
+  display: flex;
+}
+
  .content .btn{
    margin: 1rem 0.2rem;
  }
